@@ -1,0 +1,30 @@
+.first{
+    color: rgb(43, 37, 37);
+}
+.second{
+    height: 120px;
+    width: 100%;
+    padding-left: 10px;
+    margin-top: 50px;
+    color: white;
+
+    background-color: grey;
+}
+
+.third{
+    color: black;
+}
+.four{
+    border: 1px solid;
+    border-color: grey;
+    width: 40%;
+    margin-top: 10px;
+}
+
+.allign{
+    font-size:50px;
+    font-weight: 800px;
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
